@@ -1,0 +1,34 @@
+body{
+background-image: url("../images/background.png");
+}
+.header-bg{
+    background-color:#ee7600;
+    color:#ffffff;
+    margin-bottom: 10px;
+}
+.par{
+   background-color:#F5F5DC;
+   color: #005a00;
+   font-weight: bold;
+   margin-bottom: 10px;
+}
+p{
+    padding:10px;
+    line-height: 1.4em;
+}
+.scorec{
+background-color:#4ba37c;
+color: #ffffff;
+}
+.toguess{
+    background-color: #4ba366;
+    height:100px;
+    width: 100px;
+}
+#crystals{
+    margin-bottom: 10px;
+}
+.winlose{
+    background-color: #83d4ef;
+    color: black;
+}
